@@ -185,13 +185,13 @@ sudo apt-get install nodejs
 ```
 
 
-## Passo 1: Criando FRONTEND
+## Passo 1: criando FRONTEND
 - Criar projeto ReactJS com `create-react-app`:
 ```bash
 npx create-react-app frontend --template typescript
 ```
 
-## Passo 2: Criando FRONTEND utilizando o Spring Initializer
+## Passo 2: criando BACKEND utilizando o Spring Initializer
 - Acessar https://start.spring.io/
 - Criar projeto Spring Boot no `Spring Initializr` com as seguintes dependências:
   - Web
